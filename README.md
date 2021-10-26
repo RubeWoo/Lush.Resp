@@ -1,1 +1,1 @@
-# Lush.Resp
+# Lush.responsive
